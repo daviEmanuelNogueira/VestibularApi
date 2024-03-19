@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7b1876c9-34ce-45b1-b25f-795282918310/resourceGroups/rg-tc3/providers/Microsoft.Web/sites/PesquisaSatisfacaoApiTc3"
+}
